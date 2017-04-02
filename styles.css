@@ -1,0 +1,54 @@
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Playball', cursive;
+    font-weight: 600;
+}
+
+body {
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+	overflow-x:hidden !important;
+	background: url(Blurred-clouds.jpg);
+	
+}
+.topbar {
+	padding: 0px 0px 50px 0px;
+	text-align:center;
+	color: #ffffff;
+	background-color: transparent;
+}
+.middle {
+	text-align:center;
+	color: #eeeeee;
+}
+.input {
+	border-color: blue;
+	width: 30%;
+	font-size: 18px;
+	padding-left:15px;
+	padding-right: 15px;
+	margin-left:33%;
+	height: 46px;
+	font-family: 'Playball', cursive;
+	background-color: #eeeeee;
+	}
+.input1 {
+	background-color: blue;
+	width: 95px;
+	font-family: 'Playball', cursive;
+	font-size: 20px;
+	text-align: center;
+	color: #eeeeee;
+	padding: 10px 10px 10px 10px;
+}
+.logo
+{
+	padding:50px 0px 50px 0px;
+}
+.ul {
+	color: #eeeeee;
+	font-family: 'Playball', cursive;
+	font-size: 30px;
+	font-weight: 400;
+	margin-left:500px;
+}
